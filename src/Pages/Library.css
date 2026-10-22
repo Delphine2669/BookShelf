@@ -1,0 +1,8 @@
+.l-book-cover {
+  width: 100%;
+}
+
+.l-book-div {
+  display: flex;
+  flex-wrap: wrap;
+}

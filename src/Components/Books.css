@@ -1,9 +1,13 @@
-.div-author {
-  font-weight: 100;
+.ib-div-author {
+  font-weight: 50;
 }
-.div-title {
-  font-weight: 800;
+.ib-div-title {
+  font-weight: 80;
 }
-.book-cover {
-  width: 50%;
+.ib-book-cover {
+  width: 100%;
+}
+.ib-div-book {
+  max-width: 80px;
+  display: flex;
 }
